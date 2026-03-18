@@ -129,7 +129,7 @@ const defaultCertificates = [
 const defaultProjects = [
   {
     id: "default-p1",
-    Img: "https://opengraph.githubassets.com/9e346620fe461bc0e1faf6351743f387df61e882f3cb6cc8c0128557c94d8e6f/DevasiRakesh/cipher-schools-project-on-topic-Carbon-Footprint-Tracker",
+    Img: "https://socialify.git.ci/DevasiRakesh/cipher-schools-project-on-topic-Carbon-Footprint-Tracker/image?font=Inter&language=1&name=1&owner=1&theme=Dark",
     Title: "Carbon Dioxide Footprint Tracker",
     Description:
       "Built a MERN-stack web app for tracking daily CO₂ emissions, featuring interactive dashboards and real-time analytics.",
@@ -138,7 +138,7 @@ const defaultProjects = [
   },
   {
     id: "default-p2",
-    Img: "https://opengraph.githubassets.com/6a9493a64c21398a6a220fdc4aabe35cadaad2af2cf2bd16773085b1cabca08d/DevasiRakesh/RenewBazaar",
+    Img: "https://socialify.git.ci/DevasiRakesh/RenewBazaar/image?font=Inter&language=1&name=1&owner=1&theme=Dark",
     Title: "RenewBazaar (Second-hand Marketplace)",
     Description:
       "Developed a responsive marketplace with product listings, cart/checkout, and user dashboards using PHP, MySQL, and Tailwind CSS.",
