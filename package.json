@@ -6,11 +6,10 @@
   "author": "Devasi Rakesh",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
-  },
+  "dev": "react-scripts start",
+  "build": "npm install --legacy-peer-deps && react-scripts build",
+  "start": "react-scripts start"
+},
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
