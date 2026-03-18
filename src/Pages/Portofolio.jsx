@@ -126,25 +126,24 @@ const defaultCertificates = [
   { id: "default-4", Img: "/coursera_computerCommunications.pdf" },
 ];
 
-// Default projects (shown when Supabase is unavailable or empty)
 const defaultProjects = [
   {
     id: "default-p1",
-    Img: "/Photo.png",
+    Img: "https://opengraph.githubassets.com/9e346620fe461bc0e1faf6351743f387df61e882f3cb6cc8c0128557c94d8e6f/DevasiRakesh/cipher-schools-project-on-topic-Carbon-Footprint-Tracker",
     Title: "Carbon Dioxide Footprint Tracker",
     Description:
       "Built a MERN-stack web app for tracking daily CO₂ emissions, featuring interactive dashboards and real-time analytics.",
-    Link: "",
-    Github: "https://github.com/kiranmukkamula",
+    Link: "https://github.com/DevasiRakesh/cipher-schools-project-on-topic-Carbon-Footprint-Tracker",
+    Github: "https://github.com/DevasiRakesh/cipher-schools-project-on-topic-Carbon-Footprint-Tracker",
   },
   {
     id: "default-p2",
-    Img: "/Photo.png",
+    Img: "https://opengraph.githubassets.com/6a9493a64c21398a6a220fdc4aabe35cadaad2af2cf2bd16773085b1cabca08d/DevasiRakesh/RenewBazaar",
     Title: "RenewBazaar (Second-hand Marketplace)",
     Description:
       "Developed a responsive marketplace with product listings, cart/checkout, and user dashboards using PHP, MySQL, and Tailwind CSS.",
-    Link: "",
-    Github: "https://github.com/kiranmukkamula",
+    Link: "https://github.com/DevasiRakesh/RenewBazaar",
+    Github: "https://github.com/DevasiRakesh/RenewBazaar",
   },
   {
     id: "default-p3",
